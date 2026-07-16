@@ -1,10 +1,8 @@
 # 📱 Appium Mobile Automation Framework — ApiDemos
 
 A Java-based mobile test automation framework built with **Appium**, **TestNG**, **Cucumber (BDD)**, and the **Page Object Model**, targeting Google's [ApiDemos](https://github.com/appium/android-apidemos) sample Android application. Reporting is centralized in **Allure**.
+Java Appium Selenium TestNG Maven Tests
 
-> ⚠️ **Doc/code audit trail:** this README has been corrected multiple times against the actual source tree (see [Known Issues / Doc-vs-Code Drift](#known-issues--doc-vs-code-drift) at the bottom) — including a since-fixed claim of a "MyDemo App Suite" that never existed in the code, and a since-completed migration off ExtentReports onto Allure. Everything above that section reflects the verified, current state.
-
----
 
 ## 🛠 Tech Stack
 
@@ -299,8 +297,8 @@ This framework's architecture (`config/` + `base/` + `pages/` + `utils/` + `test
 
 ## 📞 Contact
 
-**RB Chowdhury** — 
-Email: chyranajit@gmail.com  Phone: +1 267-342-5565 LinkedIn: Rezaul Karim GitHub: @REZAULKARIM2024
+**Ranajit Baran Chowdhury** QA Automation Engineer/SDET
+Email: chyranajit@gmail.com  Phone: +1 267-342-5565 LinkedIn:(https://www.linkedin.com/in/rbchy/)GitHub:(https://github.com/rbchy)
 
 ---
 
