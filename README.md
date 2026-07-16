@@ -1,6 +1,4 @@
 # 📱 Appium Mobile Automation Framework — ApiDemos
-
-A Java-based mobile test automation framework built with **Appium**, **TestNG**, **Cucumber (BDD)**, and the **Page Object Model**, targeting Google's [ApiDemos](https://github.com/appium/android-apidemos) sample Android application. Reporting is centralized in **Allure**.
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
 ![Appium java-client](https://img.shields.io/badge/Appium--java--client-9.2.2-brightgreen?logo=appium)
 ![Selenium](https://img.shields.io/badge/Selenium-4.19.0-43B02A?logo=selenium)
@@ -9,9 +7,15 @@ A Java-based mobile test automation framework built with **Appium**, **TestNG**,
 ![ExtentReports](https://img.shields.io/badge/ExtentReports-5.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+A Java-based mobile test automation framework built with **Appium**, **TestNG**, **Cucumber (BDD)**, and the **Page Object Model**, targeting Google's [ApiDemos](https://github.com/appium/android-apidemos) sample Android application. Reporting is centralized in **Allure**.
+
+
 **Author:** Ranajit Baran Chowdhury — Software Programmer & QA Automation Engineer
+
 **Email:** chyranajit@gmail.com
+
 **GitHub:** [github.com/rbchy](https://github.com/rbchy)
+
 **Portfolio:** [rbc6543.wixsite.com/rbc-portfolio](https://rbc6543.wixsite.com/rbc-portfolio)
 
 
