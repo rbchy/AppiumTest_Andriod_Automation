@@ -315,7 +315,7 @@ This framework's architecture (`config/` + `base/` + `pages/` + `utils/` + `test
 ## 📞 Contact
 
 **Ranajit Baran Chowdhury** QA Automation Engineer/SDET
-Email: chyranajit@gmail.com  Phone: +1 267-342-5565 LinkedIn:(https://www.linkedin.com/in/rbchy/)GitHub:(https://github.com/rbchy)
+Email: chyranajit@gmail.com  Phone: +1 267-342-5565 
 
 ---
 
