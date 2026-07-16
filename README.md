@@ -1,7 +1,8 @@
 # 📱 Appium Mobile Automation Framework — ApiDemos
 
 A Java-based mobile test automation framework built with **Appium**, **TestNG**, **Cucumber (BDD)**, and the **Page Object Model**, targeting Google's [ApiDemos](https://github.com/appium/android-apidemos) sample Android application. Reporting is centralized in **Allure**.
-Java Appium Selenium TestNG Maven Tests
+
+
 🌐 **Application Under Test:** [ApiDemos (Appium official test app)](https://github.com/appium/android-apidemos/releases)
 
 ## 🛠 Tech Stack
