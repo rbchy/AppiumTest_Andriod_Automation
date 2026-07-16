@@ -299,7 +299,8 @@ This framework's architecture (`config/` + `base/` + `pages/` + `utils/` + `test
 
 ## 📞 Contact
 
-**RB Chowdhury** — chyranajit@gmail.com
+**RB Chowdhury** — 
+Email: chyranajit@gmail.com  Phone: +1 267-342-5565 LinkedIn: Rezaul Karim GitHub: @REZAULKARIM2024
 
 ---
 
