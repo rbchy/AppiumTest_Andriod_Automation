@@ -66,7 +66,7 @@ public class MyDemoBaseTest {
     }
 
     private void setupLocal() throws Exception {
-        String apkPath = "C:\\Users\\rezau\\MyDemoApp.apk";
+        String apkPath = "apks/MyDemoApp.apk";
 
         UiAutomator2Options options = new UiAutomator2Options();
         options.setDeviceName("emulator-5554");

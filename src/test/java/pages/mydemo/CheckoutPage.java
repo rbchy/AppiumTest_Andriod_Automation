@@ -209,7 +209,7 @@ public class CheckoutPage {
     private void dumpPageSource(String label) {
         try {
             String src = driver.getPageSource();
-            String path = "C:\\Users\\rezau\\eclipse-workspace\\appium-tests\\" + label + "-dump.xml";
+            String path = label + "-dump.xml";
             try (java.io.FileWriter fw = new java.io.FileWriter(path)) {
                 fw.write(src);
             }

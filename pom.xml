@@ -10,6 +10,8 @@
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <!-- default suite; override with -DsuiteXmlFile=testng-cucumber.xml -->
+    <suiteXmlFile>testng.xml</suiteXmlFile>
     <selenium.version>4.32.0</selenium.version>
     <cucumber.version>7.22.1</cucumber.version>
     <allure.version>2.29.1</allure.version>

@@ -146,7 +146,7 @@ public class ProductsPage {
             System.out.println("[ProductsPage] PAGE SOURCE after productIV click (first 2000 chars):\n"
                 + src.substring(0, Math.min(2000, src.length())));
             try (FileWriter fw = new FileWriter(
-                    "C:\\Users\\rezau\\eclipse-workspace\\appium-tests\\product-detail-dump.xml")) {
+                    "product-detail-dump.xml")) {
                 fw.write(src);
             }
             System.out.println("[ProductsPage] Full source saved to product-detail-dump.xml");

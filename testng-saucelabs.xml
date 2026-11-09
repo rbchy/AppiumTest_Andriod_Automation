@@ -4,7 +4,7 @@
     1. APK আপলোড করুন:
        curl -u "YOUR_USER:YOUR_KEY" \
          "https://api.us-west-1.saucelabs.com/v1/storage/upload" \
-         -F "payload=@C:\Users\rezau\ApiDemos-debug.apk" \
+         -F "payload=@apks/ApiDemos-debug.apk" \
          -F "name=ApiDemos-debug.apk"
 
     2. saucelabsUser এবং saucelabsKey এর জায়গায় আপনার credentials দিন।
@@ -49,9 +49,6 @@
             <class name="tests.MissingCoverageTests"/>
         </classes>
     </test>
-    
-		<!-- cd C:\Users\rezau\eclipse-workspace\appium-tests
-		mvn clean test -DsuiteXmlFile=testng-saucelabs.xml  appium        adb devices -->
 
     <test name="API Integration Tests">
         <classes>
